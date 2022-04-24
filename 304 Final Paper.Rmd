@@ -13,7 +13,7 @@ library(tidyverse)
 library(dplyr)
 library(openintro)
 library(janitor)
-library(lubridate)
+library(lubridate)....
 ```
 
 # Introduction 
