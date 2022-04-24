@@ -1,1 +1,5 @@
-# 304---Final-Paper
+# starter_folder
+
+This repo....
+
+It is organised as follows...
